@@ -29,4 +29,4 @@ In this game you can grab a spray paint can and draw some grafitti tag on walls
 
 ![menu](./ressources/screenshots/menu.png)
 
-![ingame](./ressources/screenshots/imgame.png)
+![ingame](./ressources/screenshots/ingame.png)
